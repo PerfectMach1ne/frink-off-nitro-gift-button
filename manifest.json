@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Frink Off Nitro Gift Button",
+  "version": "0.1",
+
+  "description": "Nuke the Send a Gift button from the Web Discord chat input bar out of existence.",
+
+  "icons": {
+    "43": "icons/fongb-buttonbegone.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://discord.com/channels/*"],
+      "js": ["nuke-the-button.js"]
+    }
+  ]
+
+}
