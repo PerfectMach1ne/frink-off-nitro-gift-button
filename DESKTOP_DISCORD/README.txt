@@ -1,0 +1,3 @@
+This is only runnable by fiddling with your desktop Discord in "ultra scary dangerous mode".
+Do it at your own risk or whatever. Not possible to automate unless you really want to get ToS-bonked. I don't!
+(Although I doubt anybody would even want to ban you for using a script that literally just looks for two HTML elements without spamming a single thing to Discord API, only to then make that element disappear. My Firefox night vision plugin is more invasive than that. Imagine Microsoft trying to sue you for making an app that deletes the number "3" from the Microsoft Calculator. As if that would ever happen. Duh.)
