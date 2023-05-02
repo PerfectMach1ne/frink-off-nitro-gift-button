@@ -1,5 +1,4 @@
 {
-
   "manifest_version": 2,
   "name": "Frink Off Nitro Gift Button",
   "version": "0.1",
@@ -15,6 +14,12 @@
       "matches": ["*://discord.com/channels/*"],
       "js": ["nuke-the-button.js"]
     }
-  ]
-
+  ],
+  
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "smoq.6thacc.lol@gmail.com",
+      "strict_min_version": "42.0"
+    }
+  }  
 }
