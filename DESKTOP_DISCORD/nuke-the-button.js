@@ -1,6 +1,6 @@
-xpaths = {
-  'server_button': '//*[@id="app-mount"]/div[3]/div[1]/div[1]/div/div[2]/div/div/div/div/div[3]/div[2]/main/form/div/div/div/div[4]/button',
-  'dm_button': '//*[@id="app-mount"]/div[3]/div[1]/div[1]/div/div[2]/div/div/div/div/div[3]/div[2]/main/form/div/div/div/div[4]/button'
+let xpaths = {
+  'server_button': '//*[@id="app-mount"]/div[3]/div[1]/div[1]/div/div[2]/div/div/div/div/div[2]/div[2]/main/form/div/div/div/div[4]/button',
+  'dm_button': '//*[@id="app-mount"]/div[3]/div[1]/div[1]/div/div[2]/div/div/div/div/div[2]/div[2]/main/form/div/div/div/div[4]/button'
 };
 // let serverButton = document.evaluate(xpaths.server_button, document.body, null, XPathResult.ANY_TYPE, null);
 // serverButton.remove();
